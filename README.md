@@ -3,7 +3,7 @@ Speedy Key is a ruby program in which the player uses best practice keyboard sho
 I wrote 1150 lines of code in ruby as a learning project before deciding to rewrite it in JavaScript.
 
 Features:
-- uses the guso graphics library.
+- uses the gosu graphics library.
 - handrolled event queue schedules responses to keystrokes
 - keystroke classes inherit from custom base class
 - custom timer prevents unwanted repeated keystrokes
